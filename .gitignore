@@ -1,0 +1,17 @@
+﻿.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+!.env.example
+chroma/
+uploaded_data/
+data/*.pdf
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+temp_img/
+*.log

@@ -1,0 +1,35 @@
+[
+  {
+  "question": "What is the perceptron model?",
+  "relevant_keywords": ["perceptron", "linear", "classification"],
+  "expected_keywords": [
+    "weights",
+    "threshold",
+    "binary",
+    "classification",
+    "learning",
+    "mcculloch"
+  ]
+},
+
+  {
+    "question": "Explain backpropagation in neural networks.",
+    "relevant_keywords": ["backpropagation", "chain rule", "gradient"],
+    "expected_keywords": ["gradient", "loss", "chain rule"]
+  },
+  {
+    "question": "What problem does vanishing gradient cause?",
+    "relevant_keywords": ["vanishing gradient", "deep networks"],
+    "expected_keywords": ["gradients", "small", "training"]
+  },
+  {
+    "question": "What is the role of activation functions?",
+    "relevant_keywords": ["activation function", "nonlinearity"],
+    "expected_keywords": ["nonlinearity", "relu", "sigmoid"]
+  },
+  {
+    "question": "What are Restricted Boltzmann Machines?",
+    "relevant_keywords": ["restricted boltzmann machine", "rbm"],
+    "expected_keywords": ["energy", "hidden", "visible"]
+  }
+]
