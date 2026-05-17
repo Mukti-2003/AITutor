@@ -108,6 +108,54 @@
       "question": "16 sutras of vedas",
       "topic": "",
       "mode": "default"
+    },
+    {
+      "timestamp": "2026-05-16T18:44:33.333493",
+      "question": "Explain 16 vedic sutras",
+      "topic": "",
+      "mode": "default"
+    },
+    {
+      "timestamp": "2026-05-16T18:45:13.382460",
+      "question": "Explain 16 vedic sutras",
+      "topic": "",
+      "mode": "beginner"
+    },
+    {
+      "timestamp": "2026-05-16T18:45:54.753707",
+      "question": "Explain 16 vedic sutras",
+      "topic": "",
+      "mode": "exam"
+    },
+    {
+      "timestamp": "2026-05-16T18:46:39.215483",
+      "question": "Explain 16 vedic sutras",
+      "topic": "",
+      "mode": "technical"
+    },
+    {
+      "timestamp": "2026-05-16T18:50:01.133270",
+      "question": "area and parameter of cyclic quadrilateral",
+      "topic": "",
+      "mode": "technical"
+    },
+    {
+      "timestamp": "2026-05-16T18:50:28.169741",
+      "question": "area and parameter of cyclic quadrilateral",
+      "topic": "",
+      "mode": "beginner"
+    },
+    {
+      "timestamp": "2026-05-16T19:54:28.459711",
+      "question": "Explain 16 vedic sutras",
+      "topic": "",
+      "mode": "default"
+    },
+    {
+      "timestamp": "2026-05-16T20:01:38.302334",
+      "question": "Explain 16 vedic sutras",
+      "topic": "",
+      "mode": "default"
     }
   ],
   "quizzes": [
@@ -135,14 +183,14 @@
   ],
   "sessions": [],
   "stats": {
-    "total_questions": 9,
+    "total_questions": 17,
     "total_quizzes": 3,
     "average_quiz_score": 0,
-    "documents_indexed": 2
+    "documents_indexed": 5
   },
   "topic_mastery": {
     "": {
-      "questions": 1,
+      "questions": 9,
       "quiz_avg": 0,
       "quiz_count": 0
     }
